@@ -17,3 +17,15 @@ Grid:
 # Week 3 - ES6
 <p>link project codepen: https://codepen.io/CarolineVG/pen/EQzooZ</p>
 <p>link project github: https://github.com/CarolineVG/ToDoApp</p>
+
+# Week 4-5 - NodeJS
+
+link project github (groepswerk): https://github.com/CarolineVG/webtech_team1 
+link project Heroku (groepswerk): https://kweeni-webtechteam1.herokuapp.com/ 
+
+link project github (alleen): https://github.com/CarolineVG/kweeni
+link project Heroku (alleen): https://kweeni-carolinevg.herokuapp.com/kweeni
+
+# Week 6 - Websockets 
+link project github: https://github.com/CarolineVG/Lab5_Web_Sockets
+link project Heroku: https://pollapp-carolinevg.herokuapp.com/
