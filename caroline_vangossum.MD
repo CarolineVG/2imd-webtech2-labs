@@ -19,10 +19,8 @@ link project codepen: https://codepen.io/CarolineVG/project/editor/AyLLdM
 
 link project github: https://github.com/CarolineVG/webtech_team1
 
-Flexbox: 
 ![alt text](https://preview.ibb.co/f6nW2n/flexbox.png)
 
-Grid:
 ![alt text](https://preview.ibb.co/cHtFTS/grid.png)
 
 # Week 3 - ES6
@@ -31,7 +29,7 @@ link project codepen: https://codepen.io/CarolineVG/pen/EQzooZ
 link project github: https://github.com/CarolineVG/ToDoApp
 
 
-# Week 4 - NodeJS
+# Week 4-5 - NodeJS
 
 link project github (groepswerk): https://github.com/CarolineVG/webtech_team1 
 
@@ -40,3 +38,8 @@ link project Heroku (groepswerk): https://kweeni-webtechteam1.herokuapp.com/
 link project github (alleen): https://github.com/CarolineVG/kweeni
 
 link project Heroku (alleen): https://kweeni-carolinevg.herokuapp.com/kweeni 
+
+# Week 6 - Websockets + Mongodb
+link project github: https://github.com/CarolineVG/websockets
+
+link project Heroku: https://carolinevg-websockets.herokuapp.com/
