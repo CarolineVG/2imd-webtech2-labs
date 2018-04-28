@@ -5,6 +5,9 @@
 - [Week 2 - Flexbox en Grid](#week-2---flexbox-en-grid)
 - [Week 3 - ES6](#week-3---es6)
 - [Week 4 - NodeJS](#week-4---nodejs)
+- [Week 5 - Websockets](#week-5---websockets)
+- [Week 6 - Gastles NodeJS en MongoDB](#week-6---gastles-nodejs-en-mongodb)
+- [Product Lab 2 - NodeJS, MongoDB en Mongoose](#product-lab-2---nodejs-mongodb-en-mongoose)
 
 <!-- /TOC -->
 
@@ -30,13 +33,30 @@ link project codepen: https://codepen.io/CarolineVG/pen/EQzooZ
 
 link project github: https://github.com/CarolineVG/ToDoApp
 
+Extra:
+- item verwijderen van to do lijst
+
 
 # Week 4 - NodeJS
 
-link project github (groepswerk): https://github.com/CarolineVG/webtech_team1 
+link project github: https://github.com/CarolineVG/webtech_team1
 
-link project Heroku (groepswerk): https://kweeni-webtechteam1.herokuapp.com/ 
+link project Heroku: https://kweeni-webtechteam1.herokuapp.com/ 
 
-link project github (alleen): https://github.com/CarolineVG/kweeni
+# Week 5 - Websockets
+link project github: https://github.com/CarolineVG/websockets 
 
-link project Heroku (alleen): https://kweeni-carolinevg.herokuapp.com/kweeni 
+link project Heroku: https://kweeni-webtechteam1.herokuapp.com/ 
+
+Extra: 
+- vragen worden opgeslagen in Mongodb database
+- lijst met alle vragen
+
+# Week 6 - Gastles NodeJS en MongoDB
+link project github: https://github.com/CarolineVG/node-mongo-gastles-lab
+
+# Product Lab 2 - NodeJS, MongoDB en Mongoose
+Voor Product Lab 2 hebben Lisa Wyffels en ik een vervaldag app gemaakt. Deze is gemaakt in NodeJS, en verbonden met MongoDB via Mongoose. 
+
+link project github: 
+link project Heroku: 
